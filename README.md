@@ -1,3 +1,4 @@
 # talla-kla-fant-stica
-eso
-<img width="498" height="437" alt="image" src="https://github.com/user-attachments/assets/d82cd2f7-34ba-4af3-8def-3f8ed59e98f0" />
+
+<img width="1093" height="667" alt="image" src="https://github.com/user-attachments/assets/99abc607-90a2-4e79-8c91-0dbd3b2c4dd6" />
+
